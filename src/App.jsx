@@ -8,7 +8,6 @@ import Footer from "./components/Footer.jsx";
 import "./App.css";
 
 function App() {
-  console.log("App render...");
   const [colorTheme, setColorTheme] = useState(images.themeLight);
   const [bgcolorTheme, setBgColorTheme] = useState("App");
 

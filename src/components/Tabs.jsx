@@ -4,7 +4,6 @@ import Portfolio from "./Portfolio";
 import Skills from "./Skills";
 
 const Tabs = () => {
-  console.log("Tab render...");
   const [selectedTopic, setSelectTopic] = useState("portfolio");
 
   const handleSelect = (selectedBtn) => {
