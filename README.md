@@ -23,9 +23,10 @@ ROT13 is a simple letter substitution cipher that replaces a letter with the 13t
 
 ROT13 is often used as a basic form of encryption to hide text, especially in situations where a simple and reversible transformation is sufficient. It is not a secure encryption method and is mainly used for obfuscation rather than providing real security. ROT13 is also used humorously on the internet to hide spoilers or other content that users may not want to see accidentally.
 
-Any integer from 1 to 25 is also available to cycle through different possibilities.
+I wrote the encoder function myself and any integer from 1 to 25 is also available to cycle through different possibilities.
 
-https://cw-milesleung.github.io/rot/
+Github repo: https://github.com/cw-milesleung/rot
+Web: https://cw-milesleung.github.io/rot/
 
 ### [Project Name 2]
 
@@ -44,5 +45,7 @@ https://cw-milesleung.github.io/rot/
 I am open to collaboration and always eager to connect with fellow developers, recruiters, and tech enthusiasts. Feel free to reach out to me via milesleung0724@gmail.com or connect with me at https://www.linkedin.com/in/milesleung/.
 
 Thank you for visiting my portfolio! I look forward to the opportunity to contribute my skills and passion to a dynamic development team.
+
+Please let me know if you think there is anything I could improve on. Would love to chat with you! 
 
 Happy coding!
