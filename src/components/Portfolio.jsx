@@ -4,8 +4,8 @@ const Portfolio = () => {
   return (
     <section className="portfolio" id="portfolio">
       <div className="wrapper project-wrapper">
-        <a href="https://github.com/">
-          <img src={images.project1} alt="Project 1" />
+        <a href="https://cw-milesleung.github.io/rot/">
+          <img src={images.project1} alt="ROT" />
         </a>
       </div>
       <div className="wrapper project-wrapper">
